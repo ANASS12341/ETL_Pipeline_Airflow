@@ -1,5 +1,3 @@
-<img width="1080" height="504" alt="image" src="https://github.com/user-attachments/assets/be096bd4-9cd9-4b6d-ad25-038d19964d11" />
-<img width="1913" height="943" alt="image" src="https://github.com/user-attachments/assets/cc41503b-004f-4388-be86-7898348dd4f6" />
 #  Airflow ETL Pipeline: NASA APOD to Postgres
 
 An ETL (Extract, Transform, Load) pipeline built with **Apache Airflow 3**. It pulls data from NASA's Astronomy Picture of the Day (APOD) API, keeps the useful fields, and stores them in a **PostgreSQL** database. Everything runs in Docker through the Astro CLI.
